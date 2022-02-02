@@ -6,7 +6,7 @@ It includes [Tailwind CSS](https://tailwindcss.com), the [Inter font](https://rs
 
 First, run the following command to create a new project with this template:
 ```bash
-npx create-next-app@latest [project-name] --ts https://github.com/jeffreydyao/next-tailwind-starter
+npx create-next-app@latest rec --ts -e https://github.com/jeffreydyao/next-tailwind-starter
 ```
 
 First, run the development server:
